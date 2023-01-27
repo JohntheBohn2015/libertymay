@@ -1,0 +1,47 @@
+/*Changes for Home Page*/
+/*Site Navigation Header*/
+header {
+    float: right;
+    margin: 0;
+    padding: 12px;
+    background-color: lightgray;
+}
+
+#Biography {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+/*Validation Checker Box*/
+footer {
+    float: right;
+    margin: 4px;
+    padding: 8px;
+    border: 5px dotted gray;
+}
+
+/*Changes for Work Experience Page*/
+#ProjectExample{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+/*Changes for General HTML Pages*/
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+/*Changes for CSS Pages*/
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: red;
+}
